@@ -1,6 +1,6 @@
-  const Engine = Matter.Engine,
-  const World = Matter.World,
-  const Events = Matter.Events,
+  const Engine = Matter.Engine;
+  const World = Matter.World;
+  const Events = Matter.Events;
   const Bodies = Matter.Bodies;
   const Body = Matter.Body;
  
